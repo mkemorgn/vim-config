@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/mike/Documents/Code/mike-morgan-photos'
+let g:netrw_dirhist_3='/home/mike/Documents/Code/mike-morgan-photos/frontend/src'
+let g:netrw_dirhist_2='/home/mike/Documents/Code/mike-morgan-photos/frontend'
+let g:netrw_dirhist_1='/usr/share/xsessions'
